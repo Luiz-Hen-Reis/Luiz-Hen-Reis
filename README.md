@@ -1,9 +1,6 @@
 ### Hi There 👋 Welcome to my Github
 
-<div>
-  <h1 style="display: inline_block">You find me here:</h1>
-  <a href="https://www.linkedin.com/in/luiz-henrique-reis-barbosa/"><img align="center" height="30" width="40"      src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-</div>
+<h1>You find me here:<a href="https://www.linkedin.com/in/luiz-henrique-reis-barbosa/"><img align="center" height="30" width="40"      src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a></h1>
 
 <div align="center">
   <a href="https://github.com/Luiz-Hen-Reis">

@@ -15,9 +15,4 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
-  
-  ##
- 
-  ![Snake animation](https://github.com/Luiz-Hen-Reis/Luiz-Hen-Reis/blob/output/github-contribution-grid-snake.svg)
- 
 </div>

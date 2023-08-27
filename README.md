@@ -1,18 +1,7 @@
-### Hi There 👋 Welcome to my Github
+## Hello, there ✌
 
-<h1 align="center">You find me here: <a href="https://www.linkedin.com/in/luiz-henrique-reis-barbosa/"><img align="center" height="50" width="60"      src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a></h1>
+My name is Luiz Henrique and I am a full-stack web developer from São José dos Campos, São Paulo. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
 
-<div align="center">
-  <a href="https://github.com/Luiz-Hen-Reis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Hen-Reis&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Hen-Reis&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-</div>
-</div>
+<a href="#">
+<img src="https://giphy.com/gifs/SpongeBobMovie-spongebob-squarepant-PnUatAYWMEMvmiwsyx" title="hello" width="335" height="243" align="right" alt="Hello!">
+</a>

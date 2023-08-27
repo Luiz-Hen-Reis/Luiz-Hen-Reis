@@ -24,6 +24,7 @@ In the back-end:
 ![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
+![PrismaORM](https://img.shields.io/badge/-Prisma-232323?style=flat&labelColor=5040b8&logo=prisma&logoColor=ffffff)
 
 
 <br/>

@@ -1,15 +1,14 @@
 ## Hello, there ✌
 
-My name is Luiz Henrique and I am a full-stack web developer from São José dos Campos, São Paulo. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
+My name is Luiz Henrique and I am a full-stack web developer from São José dos Campos, São Paulo. I enjoy programming and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
 
 <a href="#">
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" title="hello" width="335" height="243" align="right" alt="Hello!">
+<img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" title="hello" width="335" height="243" align="right" alt="Hello!">
 </a>
 
 ### Here's some of the stuff I like to use
 
-In the front-end:
-
+#### Front-end:
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
@@ -20,23 +19,21 @@ In the front-end:
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
 
-In the back-end:
-
+#### Back-end:
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![PrismaORM](https://img.shields.io/badge/-Prisma-232323?style=flat&labelColor=5040b8&logo=prisma&logoColor=ffffff)
-
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-232323?style=flat&labelColor=CC0000&logo=rubyonrails&logoColor=ffffff)
 
 <br/>
 
-You can find me here 👇
+### You can find me here 👇
 
 <div>
 <a href="https://www.linkedin.com/in/luiz-henrique-reis-barbosa/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
-
 </div>

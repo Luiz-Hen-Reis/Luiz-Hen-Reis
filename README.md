@@ -1,4 +1,4 @@
-## Hello, there ✌
+## <span style="color: #FFD700;">Hello, there ✌</span>
 
 My name is Luiz Henrique and I am a full-stack web developer from São José dos Campos, São Paulo. I enjoy programming and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
 
@@ -6,7 +6,7 @@ My name is Luiz Henrique and I am a full-stack web developer from São José dos
 <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" title="hello" width="335" height="243" align="right" alt="Hello!">
 </a>
 
-### Here's some of the stuff I like to use
+### 🛠️ <span style="color: #FFD700;">Technologies & Tools</span>
 
 #### Front-end:
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
@@ -28,12 +28,33 @@ My name is Luiz Henrique and I am a full-stack web developer from São José dos
 ![PrismaORM](https://img.shields.io/badge/-Prisma-232323?style=flat&labelColor=5040b8&logo=prisma&logoColor=ffffff)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-232323?style=flat&labelColor=CC0000&logo=rubyonrails&logoColor=ffffff)
 
-<br/>
+### 🚀 <span style="color: #FFD700;">About Me</span>
 
-### You can find me here 👇
+I am passionate about technology and continuously learning new things. I strive to build efficient and scalable applications that provide a great user experience. When I'm not coding, you can find me exploring new places, reading tech blogs, or tinkering with the latest gadgets.
+
+### 🌐 <span style="color: #FFD700;">Portfolio</span>
+
+Check out my portfolio [here](https://luiz-henrique-dev.vercel.app/).
+
+
+### 📫 <span style="color: #FFD700;">Contact Me</span>
+
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 <div>
 <a href="https://www.linkedin.com/in/luiz-henrique-reis-barbosa/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 </div>
+
+<span></span>
+
+<div>
+<a href="mailto:LHcontato@outlook.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</div>
+
+---
+
+Thank you for visiting my profile! Have a great day 😊

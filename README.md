@@ -2,7 +2,7 @@
   
 # ✨ Luiz Henrique dos Reis Barbosa ✨
 
-### Full Stack Developer | Web & Mobile Solutions Architect
+### Full Stack Developer | Web & Mobile Solutions
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Luiz%20Henrique&fontColor=ffffff&fontSize=80&fontAlignY=40&desc=Building%20digital%20experiences%20that%20matter&descAlignY=65&descSize=20&descColor=ffffff)
 
@@ -41,6 +41,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
@@ -54,6 +55,8 @@
 ### 📦 Others
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=#F46800)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=#E6522C)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
@@ -62,19 +65,7 @@
 
 - 🔭 Building digital solutions at [Elasticmind](https://elasticmind.com.br/)  
 - 📱 Optimizing mobile experiences with React Native  
-- 🧠 Studying Domain-Driven Design and system architecture  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-henrique-reis-barbosa&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-henrique-reis-barbosa&layout=compact&theme=dark&hide=html,css)
-
-</div>
+- 🧠 Studying Domain-Driven Design, system architecture and evolving in Spring ecosystem  
 
 ---
 

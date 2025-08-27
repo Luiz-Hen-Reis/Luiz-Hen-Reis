@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Elasticmind**
 
-- 🌱 I’m currently learning **Devops and cloud**
+- 🌱 I’m currently learning **Devops and cloud** and **Event Driven Architecture**
 
 - 📫 How to reach me **LHcontato@outlook.com || LHcontato2020@gmail.com**
 

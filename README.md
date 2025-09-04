@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz Henrique</h1>
-<h3 align="center">Software Engineer - From Backend APIs to Mobile Experiences</h3>
+<h3 align="center">Software Developer - From Backend APIs to Mobile Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiz-hen-reis&label=Profile%20views&color=0e75b6&style=flat" alt="luiz-hen-reis" /> </p>
 

@@ -1,18 +1,20 @@
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0d1117,70:161b22,100:1f2937&height=220&section=header&text=Luiz%20Henrique&fontSize=62&fontColor=e2e8f0&fontAlignY=40&desc=Full%20Stack%20Developer%20·%20AI%20%26%20Automation%20Specialist&descAlignY=60&descSize=17&descColor=94a3b8" width="100%"/>
-
+<h1>Luiz Henrique dos Reis Barbosa</h1>
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%7C+3%2B+years;AI+%26+Automation+Specialist;Python+%7C+Node.js+%7C+React+%7C+.NET+%7C+Go;Building+intelligent+systems+%26+APIs" alt="Typing SVG" />
+<br/>
 </div>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-reis-barbosa/)
 [![Outlook](https://img.shields.io/badge/lhcontato@outlook.com-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:lhcontato@outlook.com)
 [![GitHub](https://img.shields.io/badge/Luiz--Hen--Reis-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Luiz-Hen-Reis)
 ![Profile Views](https://komarev.com/ghpvc/?username=luiz-hen-reis&label=views&color=475569&style=flat-square)
-
+ 
 </div>
-
+ 
+</div>
 ---
 
 ## About

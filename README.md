@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-Hey there! I'm **Luiz Henrique**, a software developer with a broad stack — from building robust backend APIs to crafting mobile experiences. Currently working at **Elasticmind** 🚀
+Hey there! I'm **Luiz Henrique**, a software developer with a broad stack — from building robust backend APIs to crafting mobile experiences. Currently working at **WMD** 🚀
 
 ---
 

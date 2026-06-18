@@ -22,8 +22,6 @@ Full Stack Developer with **3+ years of experience** building web applications, 
 
 Over the past year, I've shifted my focus toward **AI-applied development**, working with Python and n8n to build intelligent automation workflows, data pipelines, and internal process orchestration. I enjoy working across the entire stack — from crafting clean APIs to fine-tuning async queues and deployment pipelines.
 
-Currently at **WMD**, delivering end-to-end solutions with real-world impact.
-
 ---
 
 ## Tech Stack
